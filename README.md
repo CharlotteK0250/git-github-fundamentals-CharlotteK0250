@@ -1,3 +1,6 @@
+name: Charlotte Klokgieters
+GitHubID: 52786767
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
