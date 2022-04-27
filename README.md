@@ -1,4 +1,5 @@
-name: Charlotte Klokgieters
+Name: Charlotte Klokgieters
+Username: CharlotteK0250
 GitHubID: 52786767
 
 # :wave: The Basics of GitHub 
